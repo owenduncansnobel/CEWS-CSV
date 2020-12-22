@@ -1,0 +1,14 @@
+{
+  "name": "cews_csv",
+  "version": "1.0.0",
+  "description": "All the data from CEWS Employer Search Results converted into a CSV for quick searches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owen Duncan-Snobel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
